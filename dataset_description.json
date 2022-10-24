@@ -1,0 +1,12 @@
+{
+	"Name": "Brain correlates of speech perception in schizophrenia patients with and without auditory hallucinations",
+	"BIDSVersion": "1.7.0",
+	"DatasetType": "raw",
+	"License": "",
+	"Authors": ["Joan Soler-Vidal", "Paola Fuentes-Claramonte", "Pilar Salgado-Pineda", "Nuria Ramiro", "María Ángeles García-León", "María Llanos Torres", "Antonio Arévalo", "Amalia Guerrero-Pedraza", "Josep Munuera", "Salvador Sarró", "Raymond Salvador", "Wolfram Hinzen", "Peter McKenna", "Edith Pomarol-Clotet"],
+	"Acknowledgements": "The authors wish to thank Dr Aniol Santo-Angles for his work and support in data acquisition and analysis of this project.",	
+	"HowToAcknowledge": "Please cite Soler-Vidal J. et al. (2022) Brain correlates of speech perception in schizophrenia patients with and without auditory hallucinations. PLOS ONE.",
+	"DatasetDOI": ""
+}
+
+	
