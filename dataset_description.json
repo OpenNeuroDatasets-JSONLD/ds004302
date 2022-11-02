@@ -21,5 +21,8 @@
     ],
     "Acknowledgements": "The authors wish to thank Dr Aniol Santo-Angles for his work and support in data acquisition and analysis of this project.",
     "HowToAcknowledge": "Please cite Soler-Vidal J. et al. (2022) Brain correlates of speech perception in schizophrenia patients with and without auditory hallucinations. PLOS ONE.",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004302.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004302.v1.0.0",
+    "EthicsApprovals": [
+        "All participants gave written informed consent prior to participation. All the study procedures had been previously approved by the Research Ethics Committee FIDMAG Sisters Hospitallers (Comité de Ética de la Investigación de FIDMAG Hermanas Hospitalarias) and complied with its ethical standards on human experimentation and with the Helsinki Declaration of 1975, as revised in 2008."
+    ]
 }
