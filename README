@@ -4,7 +4,7 @@ This dataset contains materials from the study "Brain correlates of speech perce
 - Reversed speech
 A low-level control condition of white noise was also included.
 
-Please note that the first 10 volumes of the task were discarded before the analysis, although the whole sequence is included in this dataset.
+Please note that the first 5 volumes (10 seconds) of the task were discarded before the analysis, although the whole sequence is included in this dataset.
 Events files start at the time of acquisition of the first volume after discarding the first ten.
 Please also note that white noise periods are specified in the events file, but were not modeled in the original publication (and thus acted as an implicit baseline). 
 
