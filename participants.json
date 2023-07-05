@@ -69,5 +69,15 @@
     },
     "psyrats": {
         "Description": "scores in the PSYRATS-H scale to measure hallucination severity (only for patients with schizophrenia)"
+    },
+    "participant_id": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": ""
+            },
+            "Identifies": "participant"
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     }
 }
